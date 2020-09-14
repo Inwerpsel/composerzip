@@ -1,0 +1,23 @@
+{
+  "name": "inwerpsel/composerzip",
+  "description": "Testing out composer zip file behavior.",
+  "minimum-stability" : "stable",
+  "authors": [
+    {
+      "name": "inwerpsel International",
+      "email": "inwerpsel@gmail.com"
+    }
+  ],
+  "license": "MIT",
+  "repositories": [
+    {
+      "type": "composer",
+      "url": "https://wpackagist.org"
+    },
+    {
+      "type": "composer",
+      "url": "https://packagist.org"
+    }
+  ]
+}
+
