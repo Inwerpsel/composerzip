@@ -1,5 +1,6 @@
 {
-  "name": "inwerpsel/composerzip",
+  "name": "Inwerpsel/composerzip",
+  "version": "0.0.1",
   "description": "Testing out composer zip file behavior.",
   "minimum-stability" : "stable",
   "authors": [
